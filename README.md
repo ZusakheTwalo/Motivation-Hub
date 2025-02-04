@@ -1,5 +1,5 @@
 # Motivation-Hub
-JBS Bootcamp Group 14 motivation hub backend
+JBS Bootcamp Group 14 motivation hub
 
 This project is one of the two projects that my group & I were tasked to build at the end of the JBS Bootcamp.
 We were tasked to build a Python motivation hub that will allow the user to create, view, like,  and comment on a motivational post and store it in a text or CSV file.
